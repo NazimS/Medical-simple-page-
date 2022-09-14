@@ -1,0 +1,14 @@
+:root { --mavi: #6bc1f1; }
+
+header { background: url('../img/headerbg.jpg') center/cover }
+#image1 { background: url('../img/image1.jpg') center/cover }
+#image2 { background: url('../img/image2.jpg') center/cover }
+
+.bg-transp { background-color: #FFFFFFCC }
+.bg-mavi { background-color: var(--mavi) }
+.bg-boz {background-color: #f1f1f1 }
+.bg-foot{ background-color: #072035}
+.text-mavi { color: var(--mavi) }
+.vh-50 { min-height: 50vh }
+.op-50:hover { opacity: .5 }
+
